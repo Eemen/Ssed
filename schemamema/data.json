@@ -1,0 +1,23 @@
+{
+  "info": {
+    "erstellt": "2016-11-29",
+    "verein": "BSC Weisnicht",
+    "ipaddresse": "192.128.2.1"
+  },
+  "anmeldung": {
+    "Anrede":    "Herr",
+    "Familienname": "Schwärzler"     ,
+    "Vorname": "Markus",
+    "Strasse": "Joe-Street 5",
+    "Plz": "6850",
+    "Ort": "Dornbirn",
+    "Land":    "Österreich",
+    "Telefon":    "",
+    "Telefax":    "",
+    "Mail-Adresse":"test@email.com"
+  },
+  "teilnehmer":[
+    {"Nachname": "Maier", "Vorname":"Joe","Altersklasse":"SCH","Klasse":"LB","Startzeit":"Vormittag"},
+    {"Nachname": "Maier", "Vorname":"Marta","Altersklasse":"DAAK","Klasse":"LB","Startzeit":"Vormittag"}
+  ]
+}
